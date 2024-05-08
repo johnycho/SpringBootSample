@@ -2,4 +2,4 @@
 * Spring Boot Sample Code
 
 ## Subprojects
-* `SpringBootTest`
+* `spring-boot-test`
