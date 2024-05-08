@@ -1,2 +1,4 @@
 rootProject.name = 'SpringBootSample'
 
+include 'SpringBootTest'
+findProject(':SpringBootTest')?.name = 'spring-boot-test'
